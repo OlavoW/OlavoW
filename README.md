@@ -1,9 +1,9 @@
 ## Pra que serve 
-## Tantos Códigos?
-## Se a vida
-## Não é programada
-## e as melhores coisas
-## Não tem lógica.
+Tantos Códigos?
+se a vida
+não é programada
+e as melhores coisas
+Não tem lógica.
 
 
 
