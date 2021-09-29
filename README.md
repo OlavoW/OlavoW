@@ -1,4 +1,9 @@
-## Olá meu nome e OlavoW
+## Pra que serve 
+## Tantos Códigos?
+## Se a vida
+## Não é programada
+## e as melhores coisas
+## Não tem lógica.
 
 
 
