@@ -17,7 +17,7 @@
 
 - 📫 Contato: **contato@olavow.com.br**
 
-- ⚡ Curiosidade: **A maioria dos meu projetos ainda não estão upados no github.**
+- ⚡ Curiosidade: **Comecei a gostar e estudar linguagens de programação aos 16 anos.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
