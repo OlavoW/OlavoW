@@ -1,7 +1,7 @@
 [![MasterHead](https://img.wattpad.com/b6423563443625fac55dedc44266f8455152b5c1/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f59684a317973376d485373436e673d3d2d313130323137363037332e313639333063323564353663383463643234373731333438383030302e676966)](https://rishavchanda.io)
 
 <h1 align="center">Oi, eu sou OlavoW</h1>
-<h3 align="center">Apenas um estudante de programação</h3>
+<h3 align="center">Apenas um estudante de programação com foco em Machine learning </h3>
 
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/ebf74887520abe1b1fbed76f463af135/tumblr_pew3zxiCR71rnbw6mo1_1280.gif">
 
@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/olavow50" target="blank"><img src="https://img.shields.io/twitter/follow/olavow50?logo=twitter&style=for-the-badge" alt="olavow50" /></a> </p>
 
-- 🔭 Estou trabalhando atualmente: [EvilBot](https://github.com/OlavoW/EvilBot)
+- 🔭 Estou trabalhando atualmente: [EvilBot for AI imagem generator](https://github.com/OlavoW/EvilBot)
 
 - 🌱 Estou aprendendo: **Lua**
 
-- 💬 Pergunte-me sobre: **React, CSS e Angular**
+- 💬 Pergunte-me sobre: **Python, CSS e Angular**
 
 - 📫 Contato: **contato@olavow.com.br**
 
