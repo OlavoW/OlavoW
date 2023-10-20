@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/olavow50" target="blank"><img src="https://img.shields.io/twitter/follow/olavow50?logo=twitter&style=for-the-badge" alt="olavow50" /></a> </p>
 
-- 🔭 Estou trabalhando atualmente: [EvilBot for AI imagem generator](https://github.com/OlavoW/EvilBot)
+- 🔭 Estou trabalhando atualmente: [EvilBot for AI imagem generator]
 
 - 🌱 Estou aprendendo: **Lua**
 
