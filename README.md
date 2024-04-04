@@ -31,8 +31,10 @@
 <a href="https://discord.gg/F5ZaXtKyuM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="F5ZaXtKyuM" height="30" width="40" /></a>
 </p>
 
+</div>
 
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=OlavoW&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>  
+
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlavoW&layout=compact&langs_count=7&theme=tokyonight"/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=olavow&theme=tokyonight" alt="olavow" /></p>
