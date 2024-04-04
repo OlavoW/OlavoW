@@ -13,7 +13,7 @@
 
 - 🌱 Estou aprendendo: **Lua**
 
-- 💬 Pergunte-me sobre: **Python, CSS e Angular**
+- 💬 Pergunte-me sobre: **Python, CSS e C#**
 
 - 📫 Contato: **contato@olavow.com.br**
 
