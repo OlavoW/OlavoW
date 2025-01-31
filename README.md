@@ -11,7 +11,7 @@
 
 - 🔭 Estou trabalhando atualmente: No momento estou apenas estudando.
 
-- 🌱 Estou aprendendo: **JAVA e **
+- 🌱 Estou aprendendo: **JAVA**
 
 - 💬 Pergunte-me sobre: **Como faço meu metodo de estudos.**
 
