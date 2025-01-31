@@ -9,15 +9,15 @@
 
 <p align="left"> <a href="https://twitter.com/olavow50" target="blank"><img src="https://img.shields.io/twitter/follow/olavow50?logo=twitter&style=for-the-badge" alt="olavow50" /></a> </p>
 
-- 🔭 Estou trabalhando atualmente: [EvilBot for AI imagem generator]
+- 🔭 Estou trabalhando atualmente: No momento estou apenas estudando.
 
-- 🌱 Estou aprendendo: **Lua**
+- 🌱 Estou aprendendo: **JAVA e **
 
-- 💬 Pergunte-me sobre: **Python, CSS**
+- 💬 Pergunte-me sobre: **Como faço meu metodo de estudos.**
 
 - 📫 Contato: **contato@olavow.com.br**
 
-- ⚡ Curiosidade: **Comecei a gostar e estudar linguagens de programação aos 16 anos.**
+- ⚡ Curiosidade: **Comecei a gostar de linguagens de programação aos 16 anos.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
