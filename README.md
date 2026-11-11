@@ -15,7 +15,7 @@
 
 - 💬 Pergunte-me sobre: **Como faço meu metodo de estudos.**
 
-- 📫 Contato: **contato@olavow.com.br**
+- 📫 Contato: **contato@olavow.com**
 
 - ⚡ Curiosidade: **Comecei a gostar de linguagens de programação aos 16 anos.**
 
